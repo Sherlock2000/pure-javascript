@@ -1,5 +1,5 @@
 # pure-javascript
-Javascript equivalents of jQuery functions. No need to import jQuery or any other libraries in your project .These functions or methods are build with standards and work with any framework or library. Now you don't need to include heavy libraries in your web project , which will surely improve page load time and performance.
+Javascript equivalents of jQuery functions.These functions or methods are build with standards and work with any framework or library. Now you don't need to include jQuery or any other heavy libraries in your web project , which will surely improve page load time and performance.
 
 ## Contents
 
