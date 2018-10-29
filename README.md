@@ -1,12 +1,12 @@
 # pure-javascript
-Javascript equivalents of jQuery functions.These functions or methods are build with standards and work with any framework or library. Now you don't need to include jQuery or any other heavy libraries in your web project , which will surely improve page load time and performance.
+Javascript equivalents of jQuery functions. These methods are part of the web platform and work with any framework or library. Now you don't need to include jQuery or any other heavy libraries in your web project , which will surely improve page load time and performance.
 
 ## Contents
 
 #### [$(function( ){ } ) -> document.addEventListener("DOMContentLoaded" , function( ){ } )](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)
 _inbuilt_
 
-Runs the provided function when the DOM has finished loading
+Runs the provided function when the DOM has finished loading.
 
 
 #### [$.ajax -> Ajax()](https://github.com/Sherlock2000/pure-javascript/blob/master/Ajax.js)
