@@ -6,7 +6,7 @@ The format of the function's definitions inside content's section of the README.
 
 ----------------------------------------------------
 
-#### <jQuery's function > -> <It's Javascript Equivalent>
+#### <jQuery's function (of which you have the javascript equivalent of) >
  
 tell whether the javascript equivalent function is **inbuilt** in javascript or you have a created a  **custom** function for it  ?
 
