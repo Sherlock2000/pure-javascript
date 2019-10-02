@@ -1,18 +1,18 @@
 # Contributing to pure-javascript
 
-## Format
+_Note: If your contribution do not follows the below format, it will not be accepted._
+
+## How to Format ?
  
-The format of the function's definitions inside content's section of the README.md is given below : 
+The format of the function's definitions inside content's section of the README.md is given below:
 
 ----------------------------------------------------
 
-#### <jQuery's function (of which you have the javascript equivalent) >
++**<JQuery's function name (of which you have the javascript equivalent) >**
  
-tell whether the javascript equivalent function is **inbuilt** in javascript or you have a created a  **custom** function for it  ?
+Tell whether the javascript equivalent function you are providing is **inbuilt** in javascript or you have a created a  **custom** function for it  ? ( _inbuilt_ or _custom_ )
 
-( _inbuilt_ or _custom_ )
-
-**About the _inbuilt_ or _custom_ Javascript function here**
+**Description of the Javascript equivalent here**
 
 --------------------------------------------------------
 
@@ -21,9 +21,9 @@ tell whether the javascript equivalent function is **inbuilt** in javascript or 
 
 Just keep your contributed data to *README.md* 
 
-- Only edit the contents sections of README.md
+- Only edit the **_Contents_** sections of `README.md`.
 
-- If you're editing the a particular function's definition in README.md,please make sure that you don't disturb the Format of any definition.
+- If you're editing a particular function's definition in README.md, please make sure that you don't disturb the format of other definitions.
 
 ## Creating or uploading a new file
 
