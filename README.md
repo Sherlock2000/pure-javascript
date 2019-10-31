@@ -10,17 +10,22 @@ _inbuilt_
 Runs the provided function when the DOM has finished loading.
 
 
-#### [$.ajax ](https://github.com/Sherlock2000/pure-javascript/blob/master/Ajax.js)
+#### [$.ajax ](../master/Ajax.js)
 _custom_
 
 Makes an AJAX(Asynchronous JavaScript and XML) call which uses XmlHttpRequest objects and ActiveXObject (for browsers which do not support XmlHttpRequest). It also has a simple syntax like jQuery's AJAX.
  
-#### [$(_selector_).addclass(newClass)](https://github.com/Sherlock2000/pure-javascript/blob/master/addClass.js)
+#### [$(_selector_).addclass(newClass)](../master/addClass.js)
 _inbuilt_
 
 Add a class to single element or list of elements.
 
-#### [$(_selector_).removeClass(oldClass)](https://github.com/Sherlock2000/pure-javascript/blob/master/removeClass.js)
+#### [$(_selector_).removeClass(oldClass)](../master/removeClass.js)
 _inbuilt_
 
 Remove a class from a single element or list of elements.
+
+#### [$(_selector_).onclick(_function_)](../master/onclick.js)
+_inbuilt_
+
+Add a click listener to a`HTMLElement`.
