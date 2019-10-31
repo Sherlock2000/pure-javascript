@@ -25,7 +25,7 @@ _inbuilt_
 
 Remove a class from a single element or list of elements.
 
-#### [$(_selector_).onclick(_function_)](https://github.com/sucvansh-rana/pure-javascript/blob/master/onclick.js)
+#### [$(_selector_).onclick(_function_)](https://github.com/suvansh-rana/pure-javascript/blob/master/onclick.js)
 _inbuilt_
 
 Add a click listener to a`HTMLElement`.
