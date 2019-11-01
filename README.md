@@ -4,8 +4,8 @@ Javascript equivalents of jQuery functions. These methods are part of the web pl
 ## Contents
 The following are the links to JavaScript equivalent of jQuery functions :
 
- #### [$(function( ){ } )](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)
-_inbuilt_
+#### [$(function( ){ } )](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded) 
+ _inbuilt_
 
 Runs the provided function when the DOM has finished loading.
 
